@@ -1,0 +1,5 @@
+{
+  "name": "Howling Sim",
+  "description": "A safe audio feedback simulation tool allowing spatial configuration of microphones and speakers.",
+  "requestFramePermissions": []
+}
